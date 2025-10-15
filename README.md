@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I'm Hridoy from Bangladesh<br><br>- 📚 I'm currently learning MERN Stack<br>- ⚡ In my free time I love to do Coding</p>
+<p align="center">I'm Hridoy from Bangladesh<br><br>- 📚 I'm currently learning C#/.Net Framework<br>- ⚡ In my free time I love to do Coding</p>
 
 ###
 
