@@ -104,8 +104,8 @@ Personal portfolio website built with React, showcasing projects and skills in a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hridu06/Hridu06/output/dist/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Hridu06/Hridu06/output/dist/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hridu06/Hridu06/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Hridu06/Hridu06/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
   </picture>
 </div>
 
