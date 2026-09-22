@@ -6,33 +6,49 @@
 
 ###
 
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Sabbir Hossain Hridoy</h1>
+<h3 align="center">Software Developer</h3>
+
+<p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/sabbir-hossain-hridoy-bbb4052b4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/sabbir.hossain.hridoy.754697" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
+  </a>
+  <a href="https://wa.me/8801725272987" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:sabbirhossainhridoy06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">About Me</h1>
+<h2 align="center">About Me</h2>
 
 ###
 
-<p align="center">I'm Hridoy from Bangladesh<br><br>- 📚 I'm currently learning C#/.Net Framework</p>
+<p align="center">
+  💼 Software Developer with hands-on experience across the full stack<br>
+  🎓 Currently learning C#/.NET Framework<br>
+  💻 Comfortable with front-end, back-end, databases, and CMS platforms<br>
+  🌱 Always exploring new tools and best practices<br>
+  📍 Based in Bangladesh
+</p>
 
 ###
 
-<h1 align="center">🛠 Language and tools</h1>
+<h2 align="center">🛠️ Languages &amp; Tools</h2>
 
 ###
 
@@ -45,11 +61,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
@@ -58,14 +78,40 @@
   <!-- Added .NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo" />
   <img width="12" />
-  <!-- Added SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
 </div>
-
 
 ###
 
-<h1 align="center">🔥   My Stats :</h1>
+<h2 align="center">🚀 Featured Project</h2>
+
+###
+
+<div align="center">
+
+**[Portfolio (React)](https://github.com/Hridu06/portfolio-react)**
+Personal portfolio website built with React, showcasing projects and skills in a clean, responsive layout.
+
+</div>
+
+###
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hridu06/Hridu06/output/dist/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Hridu06/Hridu06/output/dist/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+  </picture>
+</div>
+
+###
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 ###
 
@@ -75,11 +121,20 @@
 
 ###
 
-<h1 align="center">🔥  Language :</h1>
+<h2 align="center">📈 Most Used Languages</h2>
 
 ###
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hridu06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+ <img src="./assets/top-langs.svg" alt="most used languages" />
 </div>
+
+###
+
+<h2 align="center">📫 Get in Touch</h2>
+
+<p align="center">
+  Open to new opportunities, collaborations, and interesting conversations about tech.<br>
+  Reach out via <a href="mailto:sabbirhossainhridoy06@gmail.com">email</a> or any of the social links above.
+</p>
 
 ###

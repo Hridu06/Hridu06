@@ -1,0 +1,44 @@
+<svg width="320" height="242" viewBox="0 0 320 242" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6e6e6; }
+    .lang-percent { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9e9e9e; }
+  </style>
+  <rect x="0.5" y="0.5" width="319" height="241" rx="8" fill="#151515" stroke="#2d2d2d" />
+  
+    <g transform="translate(25, 25)">
+      <text x="0" y="0" class="lang-name">TypeScript</text>
+      <text x="270" y="0" text-anchor="end" class="lang-percent">21.0%</text>
+      <rect x="0" y="8" width="270" height="6" rx="3" fill="#2d2d2d" />
+      <rect x="0" y="8" width="56.66510269938022" height="6" rx="3" fill="#3178c6" />
+    </g>
+    <g transform="translate(25, 57)">
+      <text x="0" y="0" class="lang-name">C#</text>
+      <text x="270" y="0" text-anchor="end" class="lang-percent">20.1%</text>
+      <rect x="0" y="8" width="270" height="6" rx="3" fill="#2d2d2d" />
+      <rect x="0" y="8" width="54.17296522050914" height="6" rx="3" fill="#178600" />
+    </g>
+    <g transform="translate(25, 89)">
+      <text x="0" y="0" class="lang-name">JavaScript</text>
+      <text x="270" y="0" text-anchor="end" class="lang-percent">19.5%</text>
+      <rect x="0" y="8" width="270" height="6" rx="3" fill="#2d2d2d" />
+      <rect x="0" y="8" width="52.696860113712034" height="6" rx="3" fill="#f1e05a" />
+    </g>
+    <g transform="translate(25, 121)">
+      <text x="0" y="0" class="lang-name">PHP</text>
+      <text x="270" y="0" text-anchor="end" class="lang-percent">18.2%</text>
+      <rect x="0" y="8" width="270" height="6" rx="3" fill="#2d2d2d" />
+      <rect x="0" y="8" width="49.21976130717615" height="6" rx="3" fill="#4F5D95" />
+    </g>
+    <g transform="translate(25, 153)">
+      <text x="0" y="0" class="lang-name">HTML</text>
+      <text x="270" y="0" text-anchor="end" class="lang-percent">10.8%</text>
+      <rect x="0" y="8" width="270" height="6" rx="3" fill="#2d2d2d" />
+      <rect x="0" y="8" width="29.11227782615377" height="6" rx="3" fill="#e34c26" />
+    </g>
+    <g transform="translate(25, 185)">
+      <text x="0" y="0" class="lang-name">CSS</text>
+      <text x="270" y="0" text-anchor="end" class="lang-percent">7.9%</text>
+      <rect x="0" y="8" width="270" height="6" rx="3" fill="#2d2d2d" />
+      <rect x="0" y="8" width="21.43524048558111" height="6" rx="3" fill="#563d7c" />
+    </g>
+</svg>
