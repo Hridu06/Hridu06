@@ -98,6 +98,23 @@ Personal portfolio website built with React, showcasing projects and skills in a
 
 ###
 
+<h2 align="center">📊 GitHub Stats &amp; Languages</h2>
+
+###
+
+<table align="center">
+  <tr>
+    <td valign="top" width="55%">
+      <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
+    </td>
+    <td valign="top" width="45%">
+      <img src="./assets/top-langs.svg" width="100%" alt="most used languages" />
+    </td>
+  </tr>
+</table>
+
+###
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 ###
@@ -107,25 +124,6 @@ Personal portfolio website built with React, showcasing projects and skills in a
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hridu06/Hridu06/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Hridu06/Hridu06/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
   </picture>
-</div>
-
-###
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h2 align="center">📈 Most Used Languages</h2>
-
-###
-<div align="center">
- <img src="./assets/top-langs.svg" alt="most used languages" />
 </div>
 
 ###
