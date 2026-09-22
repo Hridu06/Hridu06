@@ -6,10 +6,9 @@
 
 ###
 
-<h1 align="center">Sabbir Hossain Hridoy</h1>
-<h3 align="center">Software Developer</h3>
-
-<p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sabbir+%F0%9F%91%8B;Software+Developer+%40+Nansoft;Building+clean%2C+practical+web+apps" alt="Typing SVG" />
+</div>
 
 ###
 
