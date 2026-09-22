@@ -1,0 +1,10 @@
+# Normalize line endings for all text files.
+# This avoids the "LF will be replaced by CRLF" warnings on Windows
+# and keeps line endings consistent regardless of contributor OS.
+* text=auto eol=lf
+
+# Treat these as binary — do not touch their line endings.
+*.svg -text
+*.png binary
+*.jpg binary
+*.gif binary
