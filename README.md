@@ -131,7 +131,7 @@ Personal portfolio website built with React, showcasing projects and skills in a
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">
-  Open to new opportunities, collaborations, and interesting conversations about tech.<br>
+  Open to new opportunities, collaborations, and interesting conversations about technology.<br>
   Reach out via <a href="mailto:sabbirhossainhridoy06@gmail.com">email</a> or any of the social links above.
 </p>
 
