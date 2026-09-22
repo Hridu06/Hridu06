@@ -100,18 +100,25 @@ function topLanguages(totals, n) {
 }
 
 function renderSVG(languages) {
-  const width = 320;
-  const rowHeight = 32;
+  const columns = 2;
+  const colWidth = 240;
+  const rowHeight = 40;
   const padding = 25;
-  const height = padding * 2 + languages.length * rowHeight;
-  const barWidth = width - padding * 2;
+  const gap = 20;
+  const rows = Math.ceil(languages.length / columns);
+  const width = padding * 2 + colWidth * columns + gap * (columns - 1);
+  const height = padding * 2 + rows * rowHeight;
+  const barWidth = colWidth;
 
-  const rows = languages
+  const items = languages
     .map((lang, i) => {
-      const y = padding + i * rowHeight;
+      const col = i % columns;
+      const row = Math.floor(i / columns);
+      const x = padding + col * (colWidth + gap);
+      const y = padding + row * rowHeight;
       const filled = Math.max((lang.percent / 100) * barWidth, 2);
       return `
-    <g transform="translate(${padding}, ${y})">
+    <g transform="translate(${x}, ${y})">
       <text x="0" y="0" class="lang-name">${lang.name}</text>
       <text x="${barWidth}" y="0" text-anchor="end" class="lang-percent">${lang.percent.toFixed(1)}%</text>
       <rect x="0" y="8" width="${barWidth}" height="6" rx="3" fill="#2d2d2d" />
@@ -119,6 +126,7 @@ function renderSVG(languages) {
     </g>`;
     })
     .join("");
+  const rowsSvg = items;
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <style>
@@ -126,7 +134,7 @@ function renderSVG(languages) {
     .lang-percent { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9e9e9e; }
   </style>
   <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="8" fill="#151515" stroke="#2d2d2d" />
-  ${rows}
+  ${rowsSvg}
 </svg>`;
 }
 
