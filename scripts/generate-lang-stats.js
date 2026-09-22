@@ -10,7 +10,7 @@
 const USERNAME = process.env.GH_USERNAME || "Hridu06";
 const TOKEN = process.env.GH_TOKEN || "";
 const OUTPUT_PATH = "assets/top-langs.svg";
-const TOP_N = 6;
+const TOP_N = 7;
 
 const API = "https://api.github.com";
 const headers = {

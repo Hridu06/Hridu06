@@ -104,10 +104,10 @@ Personal portfolio website built with React, showcasing projects and skills in a
 
 <table align="center">
   <tr>
-    <td valign="middle" align="center" width="44%">
+    <td valign="middle" align="center" width="49%">
       <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
     </td>
-    <td valign="middle" align="center" width="56%">
+    <td valign="middle" align="center" width="51%">
       <img src="./assets/top-langs.svg" width="100%" alt="most used languages" />
     </td>
   </tr>
