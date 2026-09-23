@@ -88,6 +88,19 @@
 
 ###
 
+<h2 align="center">🎮 3D Contribution Graph</h2>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+  </picture>
+</div>
+
+###
+
 <h2 align="center">📫 Get in Touch</h2>
 
 <p align="center">Open to new opportunities, collaborations, and interesting conversations about technology.</p>
