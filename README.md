@@ -1,85 +1,37 @@
 <img align="left" height="73" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"  />
 
-###
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hridu06.Hridu06&left_color=blueviolet&right_color=chocolate"  />
 
-###
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sabbir+%F0%9F%91%8B;Software+Developer+%40+Nansoft;Building+clean%2C+practical+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&duration=2500&pause=1000&color=14A97D&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Hridoy" alt="Typing SVG" />
 </div>
 
-###
+<h3 align="center">Software Developer</h3>
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sabbir-hossain-hridoy-bbb4052b4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-  <a href="https://www.facebook.com/sabbir.hossain.hridoy.754697" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
-  </a>
-  <a href="https://wa.me/8801725272987" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" />
-  </a>
-  <a href="mailto:sabbirhossainhridoy06@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+<p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
 
 <h2 align="center">About Me</h2>
 
 ###
 
 <p align="center">
-  💼 Software Developer with hands-on experience across the full stack<br>
-  🎓 Currently learning C#/.NET Framework<br>
-  💻 Comfortable with front-end, back-end, databases, and CMS platforms<br>
+  💼 Software Engineer at Nansoft, building full-stack web applications<br>
+  🎓 CSE Graduate (2026), IUBAT<br>
+  🚀 Specializing in React, .NET, and SQL Server<br>
   🌱 Always exploring new tools and best practices<br>
-  📍 Based in Bangladesh
+  📍 Based in Dhaka, Bangladesh
 </p>
 
 ###
 
-<h2 align="center">🛠️ Languages &amp; Tools</h2>
+<h2 align="center">🧠 Tech Stack</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="wordpress logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <!-- Added .NET -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,wordpress,mysql,c,cs,cpp,dotnet,figma,xd&theme=dark" alt="tech stack icons" />
 </div>
 
 ###
@@ -88,12 +40,21 @@
 
 ###
 
-<div align="center">
-
-**[Portfolio (React)](https://github.com/Hridu06/portfolio-react)**
-Personal portfolio website built with React, showcasing projects and skills in a clean, responsive layout.
-
-</div>
+<table align="center" border="1" cellpadding="20">
+  <tr>
+    <td align="center">
+      <h3>Portfolio (React)</h3>
+      <p>Personal portfolio website built with React, showcasing projects and skills in a clean, responsive layout.</p>
+      <a href="https://hridoy06.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Live%20Demo&logo=vercel&label=&color=14A97D&style=for-the-badge&logoColor=white" alt="live demo" />
+      </a>
+      &nbsp;
+      <a href="https://github.com/Hridu06/portfolio-react" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=GitHub%20Repo&logo=github&label=&color=181717&style=for-the-badge&logoColor=white" alt="github repo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -129,9 +90,21 @@ Personal portfolio website built with React, showcasing projects and skills in a
 
 <h2 align="center">📫 Get in Touch</h2>
 
-<p align="center">
-  Open to new opportunities, collaborations, and interesting conversations about technology.<br>
-  Reach out via <a href="mailto:sabbirhossainhridoy06@gmail.com">email</a> or any of the social links above.
-</p>
+<p align="center">Open to new opportunities, collaborations, and interesting conversations about technology.</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sabbir-hossain-hridoy-bbb4052b4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/sabbir.hossain.hridoy.754697" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
+  </a>
+  <a href="https://wa.me/8801725272987" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:sabbirhossainhridoy06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
+</div>
 
 ###
