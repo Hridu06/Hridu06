@@ -7,44 +7,44 @@
   
     <g transform="translate(25, 25)">
       <text x="0" y="0" class="lang-name">TypeScript</text>
-      <text x="240" y="0" text-anchor="end" class="lang-percent">21.0%</text>
+      <text x="240" y="0" text-anchor="end" class="lang-percent">20.9%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="50.304" height="6" rx="3" fill="#3178c6" />
+      <rect x="0" y="8" width="50.279013801730926" height="6" rx="3" fill="#3178c6" />
     </g>
     <g transform="translate(285, 25)">
       <text x="0" y="0" class="lang-name">C#</text>
       <text x="240" y="0" text-anchor="end" class="lang-percent">20.0%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="48.072" height="6" rx="3" fill="#178600" />
+      <rect x="0" y="8" width="48.0677372183155" height="6" rx="3" fill="#178600" />
     </g>
     <g transform="translate(25, 65)">
       <text x="0" y="0" class="lang-name">JavaScript</text>
       <text x="240" y="0" text-anchor="end" class="lang-percent">19.7%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="47.184" height="6" rx="3" fill="#f1e05a" />
+      <rect x="0" y="8" width="47.18666253080591" height="6" rx="3" fill="#f1e05a" />
     </g>
     <g transform="translate(285, 65)">
       <text x="0" y="0" class="lang-name">PHP</text>
       <text x="240" y="0" text-anchor="end" class="lang-percent">18.2%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="43.656" height="6" rx="3" fill="#4F5D95" />
+      <rect x="0" y="8" width="43.672753426572" height="6" rx="3" fill="#4F5D95" />
     </g>
     <g transform="translate(25, 105)">
       <text x="0" y="0" class="lang-name">HTML</text>
       <text x="240" y="0" text-anchor="end" class="lang-percent">10.8%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="25.8" height="6" rx="3" fill="#e34c26" />
+      <rect x="0" y="8" width="25.831359141558924" height="6" rx="3" fill="#e34c26" />
     </g>
     <g transform="translate(285, 105)">
       <text x="0" y="0" class="lang-name">CSS</text>
       <text x="240" y="0" text-anchor="end" class="lang-percent">7.9%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="19.032" height="6" rx="3" fill="#563d7c" />
+      <rect x="0" y="8" width="19.01951467264776" height="6" rx="3" fill="#563d7c" />
     </g>
     <g transform="translate(25, 145)">
       <text x="0" y="0" class="lang-name">Blade</text>
       <text x="240" y="0" text-anchor="end" class="lang-percent">2.5%</text>
       <rect x="0" y="8" width="240" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="5.952" height="6" rx="3" fill="#f7523f" />
+      <rect x="0" y="8" width="5.942959208368983" height="6" rx="3" fill="#f7523f" />
     </g>
 </svg>
