@@ -88,6 +88,9 @@
 
 ###
 
+<!--
+3D Contribution Graph (disabled) - remove this comment wrapper to enable again
+
 <h2 align="center">🎮 3D Contribution Graph</h2>
 
 ###
@@ -98,6 +101,9 @@
     <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
   </picture>
 </div>
+
+###
+-->
 
 ###
 
