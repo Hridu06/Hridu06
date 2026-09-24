@@ -25,8 +25,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- profile-3d-contrib; then
-            git add profile-3d-contrib
+          git add profile-3d-contrib
+          if ! git diff --cached --quiet; then
             git commit -m "chore: update 3D contribution graph"
             git push
           else
