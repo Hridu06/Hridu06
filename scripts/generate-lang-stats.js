@@ -99,42 +99,62 @@ function topLanguages(totals, n) {
     }));
 }
 
+// Same 495x195 footprint and palette as the streak / contribution cards so
+// they line up in the README.
 function renderSVG(languages) {
-  const columns = 2;
-  const colWidth = 240;
-  const rowHeight = 40;
+  const width = 495;
+  const height = 195;
   const padding = 25;
+  const columns = 2;
   const gap = 20;
-  const rows = Math.ceil(languages.length / columns);
-  const width = padding * 2 + colWidth * columns + gap * (columns - 1);
-  const height = padding * 2 + rows * rowHeight;
-  const barWidth = colWidth;
+  const colWidth = (width - padding * 2 - gap) / columns;
+  const barY = 46;
+  const barHeight = 10;
+  const barWidth = width - padding * 2;
+  const listY = 88;
+  const rowHeight = 28;
+
+  let offset = 0;
+  const segments = languages
+    .map((lang) => {
+      const w = (lang.percent / 100) * barWidth;
+      const seg = `<rect x="${(padding + offset).toFixed(2)}" y="${barY}" width="${w.toFixed(2)}" height="${barHeight}" fill="${lang.color}" />`;
+      offset += w;
+      return seg;
+    })
+    .join("\n    ");
 
   const items = languages
     .map((lang, i) => {
       const col = i % columns;
       const row = Math.floor(i / columns);
       const x = padding + col * (colWidth + gap);
-      const y = padding + row * rowHeight;
-      const filled = Math.max((lang.percent / 100) * barWidth, 2);
+      const y = listY + row * rowHeight;
       return `
-    <g transform="translate(${x}, ${y})">
-      <text x="0" y="0" class="lang-name">${lang.name}</text>
-      <text x="${barWidth}" y="0" text-anchor="end" class="lang-percent">${lang.percent.toFixed(1)}%</text>
-      <rect x="0" y="8" width="${barWidth}" height="6" rx="3" fill="#2d2d2d" />
-      <rect x="0" y="8" width="${filled}" height="6" rx="3" fill="${lang.color}" />
-    </g>`;
+  <g transform="translate(${x}, ${y})">
+    <circle cx="5" cy="-4" r="5" fill="${lang.color}" />
+    <text x="18" y="0" class="lang-name">${lang.name}</text>
+    <text x="${colWidth}" y="0" text-anchor="end" class="lang-percent">${lang.percent.toFixed(1)}%</text>
+  </g>`;
     })
     .join("");
-  const rowsSvg = items;
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6e6e6; }
-    .lang-percent { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9e9e9e; }
+    .title { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FEFEFE; }
+    .lang-name { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #FEFEFE; }
+    .lang-percent { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9E9E9E; }
   </style>
-  <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="8" fill="#151515" stroke="#2d2d2d" />
-  ${rowsSvg}
+  <defs>
+    <clipPath id="bar"><rect x="${padding}" y="${barY}" width="${barWidth}" height="${barHeight}" rx="5" /></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="5" fill="#151515" stroke="#E4E2E2" />
+  <text x="${padding}" y="30" class="title">Most Used Languages</text>
+  <g clip-path="url(#bar)">
+    <rect x="${padding}" y="${barY}" width="${barWidth}" height="${barHeight}" fill="#2d2d2d" />
+    ${segments}
+  </g>
+  ${items}
 </svg>`;
 }
 

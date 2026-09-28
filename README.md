@@ -26,13 +26,20 @@
 
 ###
 
-<h2 align="center">🧠 Tech Stack</h2>
+<h2 align="center">🧠 Tech Stack &amp; Languages</h2>
 
 ###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,wordpress,mysql,c,cs,cpp,dotnet,figma,xd&theme=dark" alt="tech stack icons" />
-</div>
+<table align="center">
+  <tr>
+    <td valign="middle" align="center" width="50%">
+      <img src="./assets/top-langs.svg" width="100%" alt="most used languages" />
+    </td>
+    <td valign="middle" align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,wordpress,mysql,c,cs,cpp,dotnet,figma,xd&theme=dark&perline=5" width="67%" alt="tech stack icons" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -58,7 +65,7 @@
 
 ###
 
-<h2 align="center">📊 GitHub Stats &amp; Languages</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 ###
 
@@ -72,12 +79,6 @@
     </td>
   </tr>
 </table>
-
-###
-
-<div align="center">
-  <img src="./assets/top-langs.svg" width="60%" alt="most used languages" />
-</div>
 
 ###
 
