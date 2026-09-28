@@ -36,7 +36,18 @@
       <img src="./assets/top-langs.svg" width="100%" alt="most used languages" />
     </td>
     <td valign="middle" align="center" width="50%">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,wordpress,mysql,c,cs,cpp,dotnet,figma,xd&theme=dark&perline=5" width="67%" alt="tech stack icons" />
+      <table>
+        <tr>
+          <td valign="top" align="center">
+            <p><b>Primary</b></p>
+            <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet&theme=dark&perline=2" width="92" alt="primary tech stack icons" />
+          </td>
+          <td valign="top" align="center">
+            <p><b>Also worked with</b></p>
+            <img src="https://skillicons.dev/icons?i=html,css,php,laravel,wordpress,mysql,c,cpp,figma,xd&theme=dark&perline=5" width="240" alt="other tech stack icons" />
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
