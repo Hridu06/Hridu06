@@ -16,12 +16,12 @@ const DAYS = 31;
 
 const COLORS = {
   bg: "#151515",
-  border: "#2d2d2d",
-  title: "#e6e6e6",
-  label: "#9e9e9e",
-  grid: "#2d2d2d",
-  line: "#14A97D",
-  point: "#ffffff",
+  border: "#E4E2E2",
+  title: "#FEFEFE",
+  label: "#E0E0E0",
+  grid: "#3A3A3A",
+  line: "#FB8C00",
+  point: "#FEFEFE",
 };
 
 async function fetchFromGraphQL() {
@@ -125,18 +125,18 @@ function renderSVG(days) {
 
   const dots = days
     .map((d, i) => `
-  <circle cx="${x(i).toFixed(1)}" cy="${y(d.count).toFixed(1)}" r="2.5" fill="${COLORS.point}" stroke="${COLORS.line}" stroke-width="1.5"><title>${d.date}: ${d.count}</title></circle>`)
+  <circle cx="${x(i).toFixed(1)}" cy="${y(d.count).toFixed(1)}" r="3" fill="${COLORS.point}" stroke="${COLORS.line}" stroke-width="1.5"><title>${d.date}: ${d.count}</title></circle>`)
     .join("");
 
   return `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .title { font: 600 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${COLORS.title}; }
-    .subtitle { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${COLORS.label}; }
-    .label { font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${COLORS.label}; }
+    .title { font: 700 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${COLORS.title}; }
+    .subtitle { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${COLORS.label}; }
+    .label { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: ${COLORS.label}; }
   </style>
   <defs>
     <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="${COLORS.line}" stop-opacity="0.45" />
+      <stop offset="0%" stop-color="${COLORS.line}" stop-opacity="0.55" />
       <stop offset="100%" stop-color="${COLORS.line}" stop-opacity="0" />
     </linearGradient>
   </defs>
@@ -146,7 +146,7 @@ function renderSVG(days) {
   ${grid}
   ${xLabels}
   <path d="${areaPath}" fill="url(#area)" />
-  <path d="${linePath}" fill="none" stroke="${COLORS.line}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="${linePath}" fill="none" stroke="${COLORS.line}" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
   ${dots}
 </svg>`;
 }

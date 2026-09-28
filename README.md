@@ -64,10 +64,10 @@
 
 <table align="center">
   <tr>
-    <td valign="middle" align="center" width="49%">
+    <td valign="middle" align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
     </td>
-    <td valign="middle" align="center" width="51%">
+    <td valign="middle" align="center" width="50%">
       <img src="./assets/activity-graph.svg" width="100%" alt="contribution activity graph" />
     </td>
   </tr>
