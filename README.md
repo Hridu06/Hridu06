@@ -68,10 +68,16 @@
       <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
     </td>
     <td valign="middle" align="center" width="51%">
-      <img src="./assets/top-langs.svg" width="100%" alt="most used languages" />
+      <img src="./assets/activity-graph.svg" width="100%" alt="contribution activity graph" />
     </td>
   </tr>
 </table>
+
+###
+
+<div align="center">
+  <img src="./assets/top-langs.svg" width="60%" alt="most used languages" />
+</div>
 
 ###
 
@@ -87,23 +93,6 @@
 </div>
 
 ###
-
-<!--
-3D Contribution Graph (disabled) - remove this comment wrapper to enable again
-
-<h2 align="center">🎮 3D Contribution Graph</h2>
-
-###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
-  </picture>
-</div>
-
-###
--->
 
 ###
 
