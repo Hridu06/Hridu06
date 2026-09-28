@@ -43,6 +43,23 @@
 
 ###
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+###
+
+<table align="center">
+  <tr>
+    <td valign="middle" align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
+    </td>
+    <td valign="middle" align="center" width="50%">
+      <img src="./assets/activity-graph.svg" width="100%" alt="contribution activity graph" />
+    </td>
+  </tr>
+</table>
+
+###
+
 <h2 align="center">🚀 Featured Project</h2>
 
 ###
@@ -59,23 +76,6 @@
       <a href="https://github.com/Hridu06/portfolio-react" target="_blank">
         <img src="https://img.shields.io/static/v1?message=GitHub%20Repo&logo=github&label=&color=181717&style=for-the-badge&logoColor=white" alt="github repo" />
       </a>
-    </td>
-  </tr>
-</table>
-
-###
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-###
-
-<table align="center">
-  <tr>
-    <td valign="middle" align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=Hridu06&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
-    </td>
-    <td valign="middle" align="center" width="50%">
-      <img src="./assets/activity-graph.svg" width="100%" alt="contribution activity graph" />
     </td>
   </tr>
 </table>
