@@ -40,11 +40,11 @@
         <tr>
           <td valign="top" align="center">
             <p><b>Primary</b></p>
-            <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet&theme=dark&perline=2" width="92" alt="primary tech stack icons" />
+            <img src="./assets/primary-stack.svg" width="82" alt="primary tech stack icons: react, typescript, .net, sql server" />
           </td>
           <td valign="top" align="center">
             <p><b>Also worked with</b></p>
-            <img src="https://skillicons.dev/icons?i=html,css,php,laravel,wordpress,mysql,c,cpp,figma,xd&theme=dark&perline=5" width="240" alt="other tech stack icons" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,cs,php,laravel,wordpress,mysql,c,cpp,figma,xd&theme=dark&perline=6" width="259" alt="other tech stack icons" />
           </td>
         </tr>
       </table>
