@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="center">🧠 Tech Stack &amp; Languages</h2>
+<h2 align="center">🧠 Tech Stack &amp; Tools</h2>
 
 ###
 
