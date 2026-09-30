@@ -23,6 +23,20 @@
 
 ###
 
+<h2 align="center">💼 Professional Experience</h2>
+
+###
+
+### Software Engineer | Nansoft
+
+*January 2026 - Present*
+
+- 🏥 **DSK (Dushtha Shasthya Kendra):** Built a full-stack web application for DSK.
+- 🤝 **BTS (Breaking the Silence):** Built a full-stack web application for BTS.
+- 🏠 **Habitat:** Built a full-stack web application for Habitat.
+
+###
+
 <h2 align="center">🧠 Tech Stack &amp; Tools</h2>
 
 ###
