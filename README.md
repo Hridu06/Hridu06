@@ -2,15 +2,14 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Hridu06.Hridu06&left_color=blueviolet&right_color=chocolate"  />
 
-<div align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&duration=2500&pause=1000&color=14A97D&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Hridoy" alt="Typing SVG" />
-</div>
+</h2>
 
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Full Stack Software Developer | .NET Specialist</h3>
+<p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
 
 <br clear="both">
-
-<p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
 
 <h2 align="center">About Me</h2>
 
