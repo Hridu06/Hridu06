@@ -5,7 +5,7 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&duration=2500&pause=1000&color=14A97D&center=true&vCenter=true&width=700&lines=Hi+there+%F0%9F%91%8B;I'm+Hridoy" alt="Typing SVG" />
 </h2>
-
+  
 <h3 align="center">Full Stack Software Developer | .NET Specialist</h3>
 <p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
 
