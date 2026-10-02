@@ -31,9 +31,9 @@
 
 *January 2026 - Present*
 
-- 🏥 **DSK (Dushtha Shasthya Kendra):** Built a full-stack web application for DSK.
-- 🤝 **BTS (Breaking the Silence):** Built a full-stack web application for BTS.
-- 🏠 **Habitat:** Built a full-stack web application for Habitat.
+- 🏥 **DSK (Dushtha Shasthya Kendra):** Developed enterprise NGO management modules using ASP.NET Core, Dapper, SQL Server, DbUp, REST APIs, and React.
+- 🤝 **BTS (Breaking the Silence):** Developed enterprise NGO management modules using ASP.NET Core, Dapper, SQL Server, DbUp, and REST APIs.
+- 🏠 **Habitat:** Developed enterprise NGO management modules using ASP.NET Core, Dapper, SQL Server, DbUp, REST APIs, and React.
 
 ###
 
