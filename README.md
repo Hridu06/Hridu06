@@ -32,7 +32,7 @@
 *January 2026 - Present*
 
 - 🏥 **DSK (Dushtha Shasthya Kendra):** Developed enterprise NGO management modules using ASP.NET Core, Dapper, SQL Server, DbUp, REST          APIs, and React.
-- 🤝 **BTS (Breaking the Silence):** Developed enterprise NGO management modules using ASP.NET Core, Dapper, SQL Server, DbUp, and REST         APIs.
+- 🤝 **BTS (Breaking the Silence):** Developed enterprise NGO management modules using ASP.NET Core, Dapper, SQL Server, DbUp, and REST         APIs and react.
 - 🏠 **Habitat:** Developed enterprise NGO management modules using ASP.NET Core, Dapper, PostgreSQL, DbUp, REST APIs, and React.
 
 ###
