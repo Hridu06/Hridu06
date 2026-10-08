@@ -11,12 +11,12 @@
   <text x="25" y="30" class="title">Most Used Languages</text>
   <g clip-path="url(#bar)">
     <rect x="25" y="46" width="445" height="10" fill="#2d2d2d" />
-    <rect x="25.00" y="46" width="92.99" height="10" fill="#3178c6" />
-    <rect x="117.99" y="46" width="88.90" height="10" fill="#178600" />
-    <rect x="206.90" y="46" width="88.38" height="10" fill="#f1e05a" />
-    <rect x="295.28" y="46" width="80.77" height="10" fill="#4F5D95" />
-    <rect x="376.05" y="46" width="47.78" height="10" fill="#e34c26" />
-    <rect x="423.83" y="46" width="35.18" height="10" fill="#563d7c" />
+    <rect x="25.00" y="46" width="92.94" height="10" fill="#3178c6" />
+    <rect x="117.94" y="46" width="89.12" height="10" fill="#178600" />
+    <rect x="207.06" y="46" width="88.33" height="10" fill="#f1e05a" />
+    <rect x="295.39" y="46" width="80.73" height="10" fill="#4F5D95" />
+    <rect x="376.11" y="46" width="47.75" height="10" fill="#e34c26" />
+    <rect x="423.86" y="46" width="35.16" height="10" fill="#563d7c" />
     <rect x="459.01" y="46" width="10.99" height="10" fill="#f7523f" />
   </g>
   
@@ -33,12 +33,12 @@
   <g transform="translate(25, 116)">
     <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
     <text x="18" y="0" class="lang-name">JavaScript</text>
-    <text x="212.5" y="0" text-anchor="end" class="lang-percent">19.9%</text>
+    <text x="212.5" y="0" text-anchor="end" class="lang-percent">19.8%</text>
   </g>
   <g transform="translate(257.5, 116)">
     <circle cx="5" cy="-4" r="5" fill="#4F5D95" />
     <text x="18" y="0" class="lang-name">PHP</text>
-    <text x="212.5" y="0" text-anchor="end" class="lang-percent">18.2%</text>
+    <text x="212.5" y="0" text-anchor="end" class="lang-percent">18.1%</text>
   </g>
   <g transform="translate(25, 144)">
     <circle cx="5" cy="-4" r="5" fill="#e34c26" />
