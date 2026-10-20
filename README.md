@@ -7,7 +7,7 @@
 </h2>
   
 <h3 align="center">Full Stack Software Developer | .NET Specialist</h3>
-<p align="center">Building clean, practical web applications — from front-end interfaces to back-end systems and databases.</p>
+<p align="center">Building clean  practical web applications — from front-end interfaces to back-end systems and databases.</p>
 
 <h2 align="center">About Me</h2>
 
